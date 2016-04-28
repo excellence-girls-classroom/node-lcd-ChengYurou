@@ -14,8 +14,6 @@ function buildPrintNums() {
     return needPrintNums;
 }
 
-//console.log(buildPrintNums());
-
 exports.buildPrintNums = buildPrintNums;
 
 function getDigits() {
